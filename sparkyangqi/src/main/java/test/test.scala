@@ -1,4 +1,4 @@
-//package test
+package test
 //import com.alibaba.fastjson.JSONObject
 //import org.apache.spark.SparkContext
 //
